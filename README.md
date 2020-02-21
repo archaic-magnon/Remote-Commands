@@ -15,5 +15,5 @@
 
 ##### Merajs-MacBook-Air:~ merajahmed$ ssh-keygen
 
-##### merajahmed@vindhya:~$ ssh-copy-id -i ~/.ssh/id_rsa.pub 10.237.22.140
+##### merajahmed@vindhya:~$ ssh-copy-id -i ~/.ssh/id_rsa.pub merajahmed@10.237.22.140
 
