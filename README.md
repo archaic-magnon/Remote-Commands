@@ -18,8 +18,7 @@
 ##### merajahmed@vindhya:~$ ssh-copy-id -i ~/.ssh/id_rsa.pub merajahmed@10.237.22.140
 
 
-# Set hostname to server IP on local computer
-#### 
+# Set hostname to server IP on local computer 
 <hr/>
 
 ##### Merajs-MacBook-Air:~ merajahmed$ sudo vi /etc/hosts
