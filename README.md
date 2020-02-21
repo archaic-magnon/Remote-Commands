@@ -23,4 +23,4 @@
 <hr/>
 
 ##### Merajs-MacBook-Air:~ merajahmed$ sudo vi /etc/hosts
-##### Add entry after last line ip_addr {tab} name
+##### Add entry after last line ip_addr {tab} name and save
