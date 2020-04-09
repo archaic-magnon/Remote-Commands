@@ -23,3 +23,19 @@
 
 ##### Merajs-MacBook-Air:~ merajahmed$ sudo vi /etc/hosts
 ##### Add entry after last line ip_addr {tab} name and save
+
+
+# Access IITD internal website from home
+<hr/>
+
+##### 1) ssh -D 1234 <usename>@sri.cse.iitd.ac.in
+  
+#### 2) fir apne browser ke proxy mei jke set socks5 proxy to localhost:1234
+
+#### 3) And enable proxy dns over socks5
+
+#### Now internal website can be accessed from browser
+
+##### Note: Revert the settings after work done
+##### Credit: Prateek
+  
